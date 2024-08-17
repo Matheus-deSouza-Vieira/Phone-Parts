@@ -8,7 +8,7 @@
 body{
     margin:0;
     font-family: "Roboto", sans-serif;
-    background: black;
+    background: rgb(16, 15, 15);
 }
 
 .navbar{
@@ -63,7 +63,7 @@ padding: 20px;
          flex-flow: row wrap ;
       justify-content: center;
       align-items: center;
-        background: black;
+        background:rgb(16, 15, 15);
         padding-top: 100px;
         
 }
