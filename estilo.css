@@ -86,16 +86,18 @@ padding: 20px;
     text-align: left;
 }
 .contact-btn{
+    
     display: inline-block;
-    background: #ccc2bb;
+    background: #131313;
     padding: 20px;
     color: rgb(239, 115, 6);
     text-transform: uppercase;
     border-radius: 5px;
+    border: 2px solid orange;
     text-decoration: none;
 }
 .contact-btn:hover{
-    background: #fd9206;
+    background: #ece9e5;
 
 }
 

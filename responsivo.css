@@ -1,3 +1,14 @@
+
+
+
+
+
+@media screen and (min-width:1005px){
+    .contact-btn{
+        display: none;
+    }
+}
+
 @media screen and (max-width:1005px){
     .navbar{
         position: relative;
@@ -7,12 +18,15 @@
         text-align: center;
     }
     .menu{
-        display: none;}
+        display: none;
+    }
+
 
 .header{
     padding-top: 50px;
 
 }
+
 .headline{
     flex: 100%;
     margin: 5%;
